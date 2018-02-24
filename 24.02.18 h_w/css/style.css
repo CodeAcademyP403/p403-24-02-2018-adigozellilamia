@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.home_work{
+    background-color: #808080;
+    padding: 3%;
+}
+h1{
+    font-size: 30px;
+}
+.text{
+    color: #dedede;
+}
+.text .paragraph-1, .paragraph-2{
+    font-size: 20px;
+}
+.text h1,h2{
+    text-align: center;
+}
+.paragraph-1{
+    padding:0 5%;
+    margin-bottom: 50px;
+}
+.paragraph-2{
+    padding: 0 1%;
+}
+.content{
+    text-align: center;
+    height: 300px;
+    margin: auto;
+    box-sizing: border-box;
+}
+.box{
+    box-sizing: border-box;
+    margin: auto;
+    display: inline-block;
+    height: 260px;
+    background-color: #ecf0ed;
+    border: 10px solid #000000;
+    width: 20%;
+    margin: 25px;
+}
